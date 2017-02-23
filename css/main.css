@@ -1,11 +1,5 @@
-<<<<<<< Updated upstream
-body {
-  background-color: #1F2025;
-  color: white;
-=======
 *{
 	text-decoration: none;
->>>>>>> Stashed changes
 }
 
 body {
@@ -15,7 +9,7 @@ body {
   background: -moz-linear-gradient(right, #003C5E, #00968C);
   background: linear-gradient(to right, #003C5E, #00968C);
 	color: #fff;
-	font-family: Lora;
+	font-family: Merriweather;
 	font-weight: 400;
 }
 nav {
@@ -188,7 +182,7 @@ footer p, footer a, footer a:link, footer a:active, footer a:visited {
 }
 #article-section article {
 	background: none repeat scroll 0 0;
-	font-size: 1.2em;
+	font-size: 1em;
 }
 #article-section p {
 	color: #fff;
