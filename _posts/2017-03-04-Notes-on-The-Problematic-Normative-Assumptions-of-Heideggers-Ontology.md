@@ -58,3 +58,55 @@ Heidegger's account of the relationship with the world is geared almost exclusiv
 In making spatiality derivative of temporality Heidegger treats spatiality only in the very limited context of the ready-to-hand relations that constitute circumspective concern.
 
 ## Parallel Between Marx and Heidegger
+
+Heidgger's structure of Dasein's self-understanding can be compared with the notion of ideology, drawn from Marx and filtered through the lens of Althusser.
+
+> to take seriously the notion of ideology is to understand that the ruling class not only controls the allocation of material reousrces which teh worker needs to survive at the biological level, but also determines the worker's thought patterns, behaviors, gestures, self-image, and so on.
+
+Heidegger suggest that Dasein mistakes itself for a thing when it takes itself as equivalent to those things with which it is constantly in relation in the ready-to-hand.
+
+>To the extent to which Heidegger's project remains fundamentally tied to the ongoing clarification fo Dasein's own initially inadequate understanding of its place in the world, and its relation to things and other, it is hard to see how Dasein can avoid an unmitigated theoretical abstractio if it is to maintain an authentic understanding of itself. p.86
+
+"... the concrete level of Dasein's preontological involvement in the world is qualified as inauthentic by Heidegger, while ontological clarity of authenticity is reserved for the moment of vision, a notion that is at best elusive and at wors too vague to be of much help."
+
+## Others
+
+Care ethics: Women are taught to care for and be oriented toward others. Men are encouraged to separate from their mothers and become autonomous individuals. Women are other-directed, men are self-directed; women are context-bound, men strive for objectivity and distance; women, in part because of the privileged relationship to child rearing, are caring and nurturing, while men are rational and abstract.
+
+Despite Heidgger's formal stipulation that others are at the same ontologicla level as Dasein, his conception of Dasein as hightly individualized and unique ultimately prejudices his philosophy against serious and sustained consideration of others. The role that Heidegger gives to others is severely attenuated.
+
+### World
+
+Heidegger tend to describe others as if they were a characteristic or attribute of Dasein's world. Others might be included in the world but the world is always Dasein's world.
+
+>Dasein's relations to others is described by Heidegger primarily in terms of its fall or dispersion into the they-self, that is, Dasein's tendency to interpret itself and its ideas in terms of opinions that it unthinkingly takes over from the public realm. This leaves little room for any systematic consideration of the possibilities of informed, thoughtful, or authentic collective social or political action at the level of protesting prevailing socioeconomic conditions.
+
+
+### Authenticity and Inauthenticity
+
+The they-self is the inauthentic self, from which Dasein must win itself back.
+
+### The "Who" of Dasein
+
+Instead of trying to solve the problem of how individual subjects relate, Heidegger starts with Dasein as
+>lost in the they, adrift among the shifting and groundless opinions of the public with which it finds itself surrounded, and a part of. It must gather up its forces, break away from teh aimless gossip of public opinion and find its authentic self, come back to itself.
+
+Dasein must confron its fate alone.
+
+[Author procedes with a more elaborate account of being with others]
+
+### Death
+
+>In the end, Heidegger's Dasein stands alone against the world, resolute in its finitude. Dasein's isolation is uncompromosing. It begins and ends in the closed circuit of Dasein's own self-understanding.
+
+## Temporality and History
+
+>Heidegger's Dasein is one who is largely untroubled by its bodily existence (except insofar as bodily needs are subordinated to goal-oriented ends, as in the for-the-sake-of-which), one who assumed the priority of self over other, and one for whom spatiality is subordinated to temporal ordering. p.98
+
+"One could pose the following question to Heidegger: is there any aspect of preontological experience whose meaning will not be taken up by an ontological schema? Is there any residue of experience that resists ontological analysis?"
+
+"What Kristeva has tried to point toward, by insisting on the differentiation between the semiotic and the symbolic is the impossibility of having the language of the symbolic or the ontological capture everything that resonates as semiotic or preontological.
+
+>For all its ingenuity, Heidegger's reworking of the question of time does not mangage to extricate Dasein from an ultimately rather traditional emphasis on subjectivity as the locus of understanding. Even in the fact of death, Dasein stands alone. In authentic anticipation, Dasein is thrown back on its own devices---those of matery, control, and dominance. To the extent that Heidegger deos take the impact of others seriously, he imports notions of tradition and heritage that we should approach only with extreme caution. For the idea of history that seems to be foreshadowed is one that harks back to a quasi-Hegelian view, where whatever happens happens and then gets regarded as necessary. Under the sway of fate, Dasein can apparently cling to traditions that pronounce themselves as destiny, traditions that discriminate on the basis of sex, race, ethnic identity, sexuality, class, and so on, without acknowledgign the partiality and bias of these traditions.
+
+Heidegger's Dasein can only flee the corporal on the basis of a gendered division of labour.
