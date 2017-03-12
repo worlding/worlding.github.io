@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Process vs Ontology
+title: Process Ontology
 author: worlding
 tags: Wolfe
 eye_catch:
 ---
-## Process vs ontology
+## Process ontology
 
 Patrick Wolfe:
 "the key left problematic is the _process of exclusion_ rather than the _ontology of those excluded_" (p.118)
