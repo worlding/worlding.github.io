@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hannah Robert, Paved with good intentions: Terra Nullius, Aboriginal Land Rights and Settler-Colonial Law
+title: Hannah Robert, Paved with good intentions
 author: worlding
 tags: property, improvement, Robert
 eye_catch:
