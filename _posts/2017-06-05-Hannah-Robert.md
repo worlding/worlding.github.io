@@ -33,3 +33,14 @@ Gideon Lang, a squater at Port Phillip:
 >This mythology of scale of civilisation provided an ideological rationale for different treatment of different indigenous groups---yet local differences in colonial policy appeared to be determined more by pragmatic considerations, such as the military strength of a particular indigenous nation. 72
 
 >Indigenous rights in land were acknowledged _within_ this model of natural rights but simultaneously _excluded_ from the category of private property. 73
+
+>As Patrick Wolfe notes, there was also something profoundly genocidal in this ideological trajectory. The thoery propounded that less advanced stages of societ inevitably gave way to the more advanced. Aboriginal people's bodies and souls could be saved, but their way of life, culture, laws and land use---these would have to die out. 75
+
+>coloniser's own assertion of economic knowledge about how Aboriginal people valued their land took the place of the legal agreement of the Aboriginal people themselves. 75
+
+>These systems for measuring value extended to Aboriginal people themselves, and their potential value as labourers. By nagating any value in existing Aboriginal use of land, colonisers constructed Aboriginal peoples as a class whose 'value' could be measured by their labour alone. ... Further, European knowledge---of agriculture, pastoralism, religion, civilisation and even property---was valued as a commodity which in itself compensated for the appropriation of Aboriginal land. 77
+
+On reserves as techniques for transforming Aboriginal people:
+>There was a sense, not of continuity from pre-existing Aboriginal systems of ownership, but rather that property was being created for the first time in the name of Aboriginal people.
+
+>What began as economic experiments and exercises in absolute state power have therefore come to be read retrospectively as part of the common law and the evolving common law definition of property.
