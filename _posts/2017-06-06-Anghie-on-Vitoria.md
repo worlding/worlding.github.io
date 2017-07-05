@@ -47,3 +47,6 @@ Argument:
 * "the ideal, universal Indian possesses the capacity of reason and therefore the potential to achieve perfection. This potential can only be realized, however, by the adoption or the imposition of the universally applicable practice of the Spanish."
 * >The discrepancy between the ontologically 'universal' Indian and the socially, historically 'particular' Indian must be remedied by the imposition of sanctions which effect the necessary transformation. Indian will regarding the desirability of such transformation is irrelevant: the universal norms Vitoria enunciates regulate behavior not merely between the Spanish and the Indians but among the Indians themselves; thus the Spanish acquire an extraordinarily powerful right of intervention and may act on behalf of the people seen as victims of Indian rituals: 'it is immatiral that ll the Indians assent to rules and sacrifices fo this kind and do not wish the Spaniards to champion them'.
 * Thus Spanish identity is projected as universal in two different but connected dimensions of Vitoria's system; __Spanish identity__ is both externalized, in that it __acts as the basis for the norms of _jus gentium___, and internalized in that it __represents the authentic identity of the Indian__.
+
+
+## War, Sovereignty and the Transformation of the Indian
