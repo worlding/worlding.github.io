@@ -45,3 +45,6 @@ Cultural probes.
 Our information about markets is not evenly distributed.
 
 The real question is the production of a class of the _radically certain_ have access to power to correct mistakes that others do not.
+
+https://www.ineteconomics.org/uploads/papers/Tuckett-Paper.pdf
+https://www.ineteconomics.org/uploads/papers/Burgin_Angus_paper.pdf

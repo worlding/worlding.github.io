@@ -56,4 +56,30 @@ Argument:
 
 * Indian resistence to the ambassadors of Christian peoples is a cause for war, "because it violates not the divine law but the _jus gentium_ administered by the sovereign"
 * "The Indian is ascribed with membership within an overarching system of _jus gentium_, with intentionand volition; as a consequence of this, violence originates within Vitoria's system through the deviance of the Indian." 328
-* 
+
+* Vitoria's understanding of sovereignty: 1) "as a relationship -- the sovereign has a duty towards his or her people and the state", 2) as certain prerogatives -- the right to wage war and to acquire title being among the most prominent." 328-9
+* Sovereign's cannot be defined independently of states. The state "is properly called a perfect community". Confusion and difficulty in definitions.
+
+* On war. Vitoria's question: does the sovereign's subjective belief in the justice ensure that the war is indeed 'just'? A: No, not a sufficient reason, for this would justify the wars of Turks and Saracens against Christians.
+* Fundamental premise of Vitoria's arguement: _the Saracens are inherently incapable of waging a just war_
+* Only Christians may ingage in a just war. Because war is the most important prerogative of sovereigns, it follows that Saracens can never be truly sovereign.
+* Only Christian subjectivity is recognised by the laws of war. Indians are excluded from the realm of sovereignty. They may only be the objects against which Christian sovereignty may exercise its power to wage war. 330
+* Indians by definition cannot wage a just war. Within Vitoria's framework they are violators of the law. The normal principles of just war which would prohibit the enslaving of women and children do not apply in the case of the pagan Indians.
+* Amongst European powers the "overthrow of the enemy's sovereignty and the deposition of lawful adn natural princes" are "utterly savage and inhumane measures"
+* "War waged against the Indians acquires a metalegal status (Onuma, 1993). Many of the legal doctrines of consent, limits and proportion which Vitoria outlines earlier, cease to apply to the Indian once the all-encompassing and inescapable obligations of _jus gentium_ are breached." 331
+* Two ways sovereignty relates to the Indian: as excluded from the sphere of sovereignty; as the object against which the powers of sovereignty may be exercised in the most extreme ways. 331
+* "Vitoria seizes upon the discovery of teh Indians to claim that traditional understanding of law were inadequate to deal with such a novel situation; in so doing Vitoria clears the way for his own elaboration of a new, secular, international law." 331
+
+## Conclusion
+
+>Vitoria is concerned with not so much the problem of order among sovereign states but the problem of order among societies belonging to two different cultural systems. Vitoria resolves this problem by focusing on the cultural practices of each society and assessing them in terms of the universal law of _jus gentium_. Once this framework is established, he demonstrates that the Indians are in violation of universal natural law. Indians are included within the system only to be disciplined. 331
+
+>Vitoria bases his conclusions that the Indians are not sovereign on the simple assertion that they are pagans. In so doing he resorts to exactly the same crude reasoning wich he had previously refuted when denying hte validity of the church's claim that the Indian lack rights under divine law because they are heathens.
+
+[so what was the point?]
+
+>Sovereignty doctrine acquired its character through the colonial encounter. This is the darker history of sovereignty which cannot be explored or understood by any account of sovereignty doctrine which assumes the existence of sovereign states.
+
+>Vitoria's real importance lies in his developing a set of concepts and constructing a set of arguments which have been continuously used by western powers in their suppression of the non-western world and which are still regularly employed in contemporary international relations in the supposedly post-imperial world. In particular, we see in Vitoria's work the enactment of a formidable series of maneuvers by which European practices are posited as universally applicable norms whith which the colonial peoples must conform if they are to avoid and achieve full membership. 332
+
+>if sovereignty is so intimately connected with the problem of cultural difference, and if it is explicitly shaped in such a manner as to empower certain cultures while suppressing others, vital questions must arise as to whether and how sovereignty may be utilized by these suppressed cultures for their own purposes. 332
