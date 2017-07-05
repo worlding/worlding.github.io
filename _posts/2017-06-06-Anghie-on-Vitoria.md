@@ -50,3 +50,10 @@ Argument:
 
 
 ## War, Sovereignty and the Transformation of the Indian
+
+* the transformation of the Idian is to be achieved by the waging of war
+* Vitoria's concept of sovereignty is developed primarily in terms of the sovereign's right to wage Weaver
+
+* Indian resistence to the ambassadors of Christian peoples is a cause for war, "because it violates not the divine law but the _jus gentium_ administered by the sovereign"
+* "The Indian is ascribed with membership within an overarching system of _jus gentium_, with intentionand volition; as a consequence of this, violence originates within Vitoria's system through the deviance of the Indian." 328
+* 

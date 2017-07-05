@@ -1,6 +1,6 @@
 ---
 layout: post
-title: John Locke and America - Barbara Arneil
+title: Barbara Arneil, John Locke and America
 author: worlding
 tags: Locke, Arneil, colonialism
 eye_catch:
