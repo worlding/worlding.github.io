@@ -26,6 +26,6 @@ eye_catch:
 
 ## Conclusion
 
->What is unique about genocide in Australia is nto its violence, but its apparent legality and above all its modernity. It was modern technology that made possible the pace and effectiveness of the killing, and modern law that provided the judicial niceties that condoned it.  98-99
+>What is unique about genocide in Australia is not its violence, but its apparent legality and above all its modernity. It was modern technology that made possible the pace and effectiveness of the killing, and modern law that provided the judicial niceties that condoned it.  98-99
 
 >This in turn enabled minimal state involvement via visible, military action, and gave carte blanche to changing groups of helpers claiming expertise in managing surviving populations where extreme surveillance did no preclud starvation, the absence of medical services, adn utter neglect. 99

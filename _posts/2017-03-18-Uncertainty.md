@@ -5,10 +5,12 @@ author: worlding
 tags: uncertainty affect Mitropoulos
 eye_catch:
 ---
+https://osf.io/35b3p/
+
 # Archipelago of Risk
 Mitropoulos, 2016
 
->Whereas Marx's discussion of political economy's understanding of the circuits of industrial capital emphasised the energy and capacity generated within the 'hidden abode' of labour, or the crises of realisation that occurred in circulation, contemporary risk analysts derive an estimate of value from speculations on uncertainty through correlations of intensities of divergent qualities and their conversion into the extensive, divisible language of geometry - or, briefly put: the use of technical procedures for assigning values to affective intensity and calculable risk, respectively. Uncertainty, in this sense, is the intensive, or affective , dimension of risk analytics.
+>Whereas Marx's discussion of political economy's understanding of the circuits of industrial capital emphasised the energy and capacity generated within the 'hidden abode' of labour, or the crises of realisation that occurred in circulation, contemporary risk analysts derive an estimate of value from speculations on uncertainty through correlations of intensities of divergent qualities and their conversion into the extensive, divisible language of geometry - or, briefly put: the use of technical procedures for assigning values to affective intensity and calculable risk, respectively. Uncertainty, in this sense, is the intensive, or affective , dimension of risk analytics. 167
 
 Spinoza on affect: 'anything that increases or diminishes' the body's capacity ot act and the mind's capacity to think.
 >Affect, by this definition, refers to combined stocks, or 'joint-stock', as in the pooling of risk through joint-stock companies that trade on stock exchanges. Uncertainty in this abstract sense is not a feeling so much as a concept around which techniques for ascertaining the value of feelings _about an unknowable future_ emerged across the field of insurance, economics and philosophy.
@@ -61,7 +63,7 @@ By contrast, variable geometry sees to "optimise the performance of a machine in
 
 > Analytic geometry (and calculus) is the shared language of engineers, statisticians, insurers, demographers and so on. It discerns the variable relationship between two or more things (such as lengths, volumes, curvature, inertia) formulated in a notational system which alphabetises a range between known data and objects whose properties are known to unknowable, from alpha to omega.
 
-> While a variety of methods for calculating risks are put to use in the IDN, the economic value of detention is derived from the connections and delineations within and beyond those processes, made possibel by the variable geometry of facility design (the re-engineering of scalable, adaptive infrastructures borrowed from military, shipping, construction and mining operations) and the similarly variable contingency provisions of contractual arrangements, accounting procedures and securities.
+> While a variety of methods for calculating risks are put to use in the IDN, the economic value of detention is derived from the connections and delineations within and beyond those processes, made possible by the variable geometry of facility design (the re-engineering of scalable, adaptive infrastructures borrowed from military, shipping, construction and mining operations) and the similarly variable contingency provisions of contractual arrangements, accounting procedures and securities.
 
 Similar to Gordon and Filc's discussion of the creation of uncertainty in the West Bank and Gaza, the IDN is "characterised by the destruction of the ability of those who are detained to decide what risks to take with their lives, with the result that suicide and self-harm are extraordinarily high, and rise in direct proportion to increases in the uncertainty created by indefinite detection" [remembering the relation between intensity and uncertainty]
 
@@ -78,7 +80,7 @@ Possible worlds, modal logic, scenario planning.
 
 "... calls for the 'hybridisation' of risk analytics -- the blending of aesthetic, financial and scientific practices, or a variety of methods for introjecting the incalculable into the calculable through forums involving practitioners across these fields and techniques -- has been the mainstay of discussion of risk for the previous thirty years."
 
-Contrast between "aesthetically-immersive, edgy-but-safe enjoyment and marketing of uncertainty" and the "active creation of 'pathway uncertainty'" for detainees.
+Contrast between "aesthetically-immersive, edgy-but-safe enjoyment and marketing of uncertainty" and the "active creation of 'pathway uncertainty'" for detainees. 180
 
 "in the analytics of risk it is the correlation of otherwise uncorrelated frequencies of event distribution and speculations on the future in bounded sets of comparable but diverse times that generates value
 
